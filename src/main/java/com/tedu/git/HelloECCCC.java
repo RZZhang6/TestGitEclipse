@@ -1,6 +1,6 @@
 package com.tedu.git;
 
-public class HelloGit {
+public class HelloECCCC {
 	public static void main(String[] args) {
 		System.out.println("Hello Git!!");
 		System.out.println("更新1");
